@@ -1,4 +1,4 @@
-# { name } resume / C.V.
+# { name } resume
 
 ## Sample
 
