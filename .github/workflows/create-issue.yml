@@ -7,7 +7,7 @@ on:
 jobs:
   build:
     name: create issue
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v2
       - uses: JasonEtco/create-an-issue@v2
